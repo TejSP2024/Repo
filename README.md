@@ -5,12 +5,12 @@
 ## Homework
 I wil have homework here
 
-##Notes
+## Notes
 see paper
 
-##Tests
+## Tests
 come back later
 
-##Projects
+## Projects
 come back later
 🚀🚀🚀🚀
