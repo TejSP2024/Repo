@@ -1,0 +1,46 @@
+Pap = “PAPER”
+X = 0
+Def KITE_FOLDS():
+X+=1
+	“take left side of square/diamond and fold into dividing line”
+	“take right side of square/diamond and fold in to the center line to have a kite shape”
+If 2!<x:
+	“unfold”
+Else:
+	“Leave”
+Def Non_fold()
+	A  = input(“which would you like to do?”)
+	If a == “unfold & rotate”:
+		“Unfold and rotate”
+	Elif a == “unfold”:
+		“unfold”
+	Elif a == “Flip over”:
+		“flip over”
+FOLD SQUARE OF PAPER IN HALF DIAGONAL
+Non_fold()
+FOLD SQUARE OF PAPER IN HALF DIAGONAL
+non_fold()
+non_fold()
+FOLD IN HALF VERTICALLY
+Non_fold()
+FOLD IN HALF VERTICALLY
+non_fold()
+COLLAPSE SIDES IN 
+For f in range(0,2,1):
+      KITE_FOLDS()
+      FOLD IN TOP CORNER
+      BRING SIDES OF UNFOLDED KITE IN TO CREATE DIAMOND SHAPE
+      Non_fold()
+For f in range(0,2,1):
+	KITE_FOLD()
+	Non_fold()
+FOLD THE BOTTOM OF THE #LEGS IN TO STICK THEM UPWARDS
+PULL NECK AND TAIL OUTWARDS
+FOLD IN TIP OF THE NECK 
+
+
+
+
+	
+	
+	
